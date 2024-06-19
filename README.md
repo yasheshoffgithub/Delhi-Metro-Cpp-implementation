@@ -1,7 +1,5 @@
 # 🚇 Delhi Metro C++ Implementation
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 Welcome to the **Delhi Metro C++ Implementation** project! 🎉 This project aims to provide a comprehensive and efficient C++ implementation of the Delhi Metro system. It includes various features to simulate metro operations, manage metro routes, and more. Currently, a Graphical User Interface (GUI) is under development to enhance user interaction and experience. 🚀
@@ -42,10 +40,6 @@ Once the project is built, you can run the executable to start interacting with 
 ## Contributing
 
 Contributions are welcome! 🙌 If you have ideas, suggestions, or improvements, feel free to fork the repository and submit a pull request. Please ensure your contributions align with the project's goals and coding standards.
-
-## License
-
-This project is licensed under the MIT License. 📄 See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
